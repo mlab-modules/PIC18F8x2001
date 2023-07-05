@@ -1,0 +1,20 @@
+description: null
+github_branch: PIC18F8x2001A
+github_repo: PIC18F8x2001
+github_url: https://github.com/mlab-modules/PIC18F8x2001
+homepage: false
+images:
+- doc/img/PIC18F8x2001A_big.jpg
+- doc/img/PIC18F8x2001A_small.jpg
+- doc/html/Pictures/image008.jpg
+- doc/html/Pictures/image001.jpg
+- doc/html/Pictures/image007.jpg
+- doc/img/PIC18F8x2001A_QRcode.png
+- doc/html/Pictures/image005.gif
+- doc/html/Pictures/image003.gif
+- doc/html/Pictures/image004.gif
+- doc/html/Pictures/image002.gif
+- doc/html/Pictures/image006.gif
+mark: 50
+tags: []
+title: PIC18F8x2001
