@@ -16,5 +16,7 @@ images:
 - doc/html/Pictures/image002.gif
 - doc/html/Pictures/image006.gif
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: PIC18F8x2001
